@@ -12,4 +12,4 @@ a backup as the data are not publicly available and were provided to me by NordP
 
 Files which include data download, cleaning and wrangling are not included.
 
-These scripts were mostly written between 03-2017 and 05-2017.
+These scripts were mostly written between 03-2017 and 05-2017. Code is not polished.
